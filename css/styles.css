@@ -1,0 +1,56 @@
+/* font  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* regular style */
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* header styles */
+.header-container{
+    background: #264653;
+}
+
+.color-change{
+    color: #FFFFFF;
+}
+
+.paragraph-style{
+    font-size: 16px;
+    color: #E0E0E0;
+}
+
+.btn-style{
+    background: #E76F51 !important;
+    border-radius: 5px;
+    color: white !important;
+}
+
+
+/* Featured Bikes 2021 styles */
+.colored-style{
+    color: #E76F51
+    ;
+}
+
+.img-gray{
+    filter: grayscale(1);
+}
+
+
+/* Happy Clients says styles */
+.fas{
+    color: #E76F51
+    ;
+    margin: 0px 5px;
+}
+
+.clients h6{
+color: #23A6F0;
+font-weight: 600;
+}
+
+
+/* Frequently Asked Questions */
+.acc-color{
+    color: #7E848C;
+}
