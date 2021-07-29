@@ -54,3 +54,10 @@ font-weight: 600;
 .acc-color{
     color: #7E848C;
 }
+
+
+/* footer styles */
+footer a{
+    text-decoration: none;
+    color: white;
+}
